@@ -1,0 +1,80 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Smart Calculator with Java/*
+!/Smart Calculator with Java/task/
+/Smart Calculator with Java/task/*
+!/Smart Calculator with Java/task/src
+
+# Project exclude paths
+/Topics/ArrayList/Concat positive numbers/out/
+/Topics/ArrayList/Concat positive numbers/out/production/classes/
+/Topics/ArrayList/Output the list's elements/out/
+/Topics/ArrayList/Output the list's elements/out/production/classes/
+/Topics/BigInteger/An expression with large numbers/out/
+/Topics/BigInteger/An expression with large numbers/out/production/classes/
+/Topics/BigInteger/Double factorial/out/
+/Topics/BigInteger/Double factorial/out/production/classes/
+/Topics/Generics and Object/Initialize an object of a generic class/out/
+/Topics/Generics and Object/Initialize an object of a generic class/out/production/classes/
+/Topics/Introduction to generic programming/Correct the program/out/
+/Topics/Introduction to generic programming/Correct the program/out/production/classes/
+/Topics/Patterns and Matcher/Find a word with a given length/out/
+/Topics/Patterns and Matcher/Find a word with a given length/out/production/classes/
+/Topics/Patterns and Matcher/In the middle of a word/out/
+/Topics/Patterns and Matcher/In the middle of a word/out/production/classes/
+/Topics/Patterns and Matcher/Number parsing/out/
+/Topics/Patterns and Matcher/Number parsing/out/production/classes/
+/Topics/Patterns and Matcher/Start or end of a word/out/
+/Topics/Patterns and Matcher/Start or end of a word/out/production/classes/
+/Topics/Regexes in programs/Check IP address/out/
+/Topics/Regexes in programs/Check IP address/out/production/classes/
+/Topics/Regexes in programs/Check the clock time/out/
+/Topics/Regexes in programs/Check the clock time/out/production/classes/
+/Topics/Regexes in programs/Check the date/out/
+/Topics/Regexes in programs/Check the date/out/production/classes/
+/Topics/Regexes in programs/Illegal identifiers/out/
+/Topics/Regexes in programs/Illegal identifiers/out/production/classes/
+/Topics/Regexes in programs/Safe password/out/
+/Topics/Regexes in programs/Safe password/out/production/classes/
+/Topics/Regexes in programs/Vehicle registration number/out/
+/Topics/Regexes in programs/Vehicle registration number/out/production/classes/
+/Topics/Replacing characters/Check the essay/out/
+/Topics/Replacing characters/Check the essay/out/production/classes/
+/Topics/Replacing characters/Like a lion/out/
+/Topics/Replacing characters/Like a lion/out/production/classes/
+/Topics/Replacing characters/Remove comments/out/
+/Topics/Replacing characters/Remove comments/out/production/classes/
+/Topics/Replacing characters/Remove extra spaces/out/
+/Topics/Replacing characters/Remove extra spaces/out/production/classes/
+/Topics/Replacing characters/Remove HTML tags/out/
+/Topics/Replacing characters/Remove HTML tags/out/production/classes/
+/Topics/Replacing characters/Signal from space/out/
+/Topics/Replacing characters/Signal from space/out/production/classes/
+/Topics/Stack/Html Parser/out/
+/Topics/Stack/Html Parser/out/production/classes/
+/Topics/Stack/Html Parser (1)/out/
+/Topics/Stack/Html Parser (1)/out/production/classes/
+/Topics/Stack/The LIFO principle in action/out/
+/Topics/Stack/The LIFO principle in action/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
+/Topics/The Collections framework overview/Blacklist/out/
+/Topics/The Collections framework overview/Blacklist/out/production/classes/
+/Topics/The Collections framework overview/Squaring numbers/out/
+/Topics/The Collections framework overview/Squaring numbers/out/production/classes/
+/Topics/The List interface/Split a list into sublists/out/
+/Topics/The List interface/Split a list into sublists/out/production/classes/
+/Topics/The Map interface/Create a map/out/
+/Topics/The Map interface/Create a map/out/production/classes/
+/Topics/The Map interface/Sum of values/out/
+/Topics/The Map interface/Sum of values/out/production/classes/
